@@ -1,0 +1,3 @@
+module VideoSource
+plugin VideoSource
+
